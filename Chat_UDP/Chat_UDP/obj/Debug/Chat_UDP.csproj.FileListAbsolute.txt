@@ -1,0 +1,10 @@
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\bin\Debug\Chat_UDP.exe.config
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\bin\Debug\Chat_UDP.exe
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\bin\Debug\Chat_UDP.pdb
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.csproj.AssemblyReference.cache
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.Form1.resources
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.Properties.Resources.resources
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.csproj.GenerateResource.cache
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.csproj.CoreCompileInputs.cache
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.exe
+D:\Dự án\C#\BT_Trenlop\Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.pdb

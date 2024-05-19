@@ -1,0 +1,10 @@
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\bin\Debug\Send_Email_SMTP.exe.config
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\bin\Debug\Send_Email_SMTP.exe
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\bin\Debug\Send_Email_SMTP.pdb
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\obj\Debug\Send_Email_SMTP.csproj.AssemblyReference.cache
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\obj\Debug\Send_Email_SMTP.Form1.resources
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\obj\Debug\Send_Email_SMTP.Properties.Resources.resources
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\obj\Debug\Send_Email_SMTP.csproj.GenerateResource.cache
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\obj\Debug\Send_Email_SMTP.csproj.CoreCompileInputs.cache
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\obj\Debug\Send_Email_SMTP.exe
+D:\Dự án\C#\BT_Trenlop\Send_Email_SMTP\Send_Email_SMTP\obj\Debug\Send_Email_SMTP.pdb
